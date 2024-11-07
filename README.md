@@ -79,7 +79,7 @@ Write Blog Posts: Written blogs on medium related to Devops tools which helped m
 ## CV
 
 # Hi 👋, I'm Ayesha Sajid
-### AI Enthusiast
+Enthusiastic and driven Computer Science graduate with a strong foundation in Artificial Intelligence, Machine Learning, Deep Learning, and Natural Language Processing, along with a passion for website development. Looking to leverage my skills in a professional setting to contribute to innovative projects and continuous learning.
 
 ---
 
