@@ -15,9 +15,9 @@ This repository contains the work completed for the DevOps Course 2024 assignmen
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-##Doctor-appointment-system
-A test app to show doctors, patient & appointments system to just show microservices & their responses
+#Doctor-appointment-system
 
+A test app to show doctors, patient & appointments system to just show microservices & their responses
 This is a sample application, which consists of
 
 frontend: a simple frontend application which shows Doctors & Appointments in UI form
