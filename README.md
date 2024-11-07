@@ -83,7 +83,7 @@ Reasonable Limits: Set min and max replicas to avoid over- or under-provisioning
 
 ## CV
 
-# Hi 👋, I'm Ayesha Sajid
+# Hi, I'm Ayesha Sajid
 Enthusiastic and driven Computer Science graduate with a strong foundation in Artificial Intelligence, Machine Learning, Deep Learning, and Natural Language Processing, along with a passion for website development. Looking to leverage my skills in a professional setting to contribute to innovative projects and continuous learning.
 
 ---
