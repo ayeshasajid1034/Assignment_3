@@ -7,6 +7,6 @@ This repository contains the work completed for the DevOps Course 2024 assignmen
 - A guide to my learning journey and contributions to the field of DevOps.
 
 ## Documentation:
-- [DevOps Learning Guide](docs/devops-learning-guide.md)
+- [DevOps Learning Guide](https://github.com/ayeshasajid1034/my_cv/blob/main/docs)
 - [GitOps and Kubernetes Autoscaling Summary](docs/gitops-kubernetes-summary.md)
 - [CV-Laning Page](https://ayeshasajid1034.github.io/my_cv/)
