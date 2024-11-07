@@ -1,4 +1,4 @@
-# DevOps Course 2024 - Assignment 3
+# DevOps Course 2024 
 
 This repository contains the work completed for the DevOps Course 2024 assignment, which includes:
 
