@@ -10,7 +10,7 @@ This repository contains the work completed for the DevOps Course 2024 assignmen
 ## Documentation:
 - [View Blog Summaries](blog_summaries.md)
 - [View Learning and Contribution](https://github.com/ayeshasajid1034/DevOps_Assignment_3/blob/main/Guide_to_Learning_and_Contribution.md)
-- - [CV](https://ayeshasajid1034.github.io/DevOps-Course-2024/)
+- [CV](https://ayeshasajid1034.github.io/DevOps-Course-2024/)
   
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
