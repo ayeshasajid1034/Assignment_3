@@ -29,14 +29,18 @@ appointments: a backend app written in python, which shows list of appointments
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Blog Summaries
-##Blog 1 Summary: GitOps: The Future of Kubernetes and Cloud-Native Deployments GitOps has revolutionized the way we handle cloud-native and Kubernetes deployments by making infrastructure management scalable, automated, and more secure. At the core of GitOps is the principle that Git serves as the single source of truth for both application code and infrastructure configurations. This approach uses a continuous synchronization loop that ensures the system’s actual state matches the desired state defined in Git.
+## Blog Summaries
 
-Key Points:
+## Blog 1 Summary:
+GitOps: The Future of Kubernetes and Cloud-Native Deployments GitOps has revolutionized the way we handle cloud-native and Kubernetes deployments by making infrastructure management scalable, automated, and more secure. At the core of GitOps is the principle that Git serves as the single source of truth for both application code and infrastructure configurations. This approach uses a continuous synchronization loop that ensures the system’s actual state matches the desired state defined in Git.
+
+## Key Points:
 
 Declarative Infrastructure: GitOps relies on defining infrastructure in a declarative manner, ensuring consistency across environments. Auditability: Every change is recorded in Git, providing a complete history and making rollbacks seamless. Automation and Consistency: Automation tools, like Argo CD and Flux, continuously monitor and synchronize with Git to prevent configuration drift. GitOps Workflow: Involves pushing changes to Git, running through CI pipelines for validation, and using tools like Argo CD to sync with Kubernetes. Benefits: GitOps provides scalability, enhanced security, easy rollbacks, and reduced human error by automating processes. Challenges and Best Practices: Address complexities in large teams, manage permissions securely, and ensure environments are properly monitored to detect drift. GitOps has become a gold standard for deploying applications in modern cloud-native environments, offering benefits like rapid deployments and reliability. As this paradigm evolves, teams must follow best practices to fully leverage its potential.
 
-##Blog 2 Summary: Kubernetes Autoscaling: Optimizing Resource Utilization Kubernetes autoscaling is crucial for optimizing resources and handling fluctuating workloads. Autoscaling ensures that applications have just the right amount of resources, dynamically adjusting as the demand changes, thereby maximizing performance while minimizing costs.
+
+## Blog 2 Summary: 
+Kubernetes Autoscaling: Optimizing Resource Utilization Kubernetes autoscaling is crucial for optimizing resources and handling fluctuating workloads. Autoscaling ensures that applications have just the right amount of resources, dynamically adjusting as the demand changes, thereby maximizing performance while minimizing costs.
 
 Types of Kubernetes Autoscalers:
 
@@ -47,8 +51,10 @@ Deploy your application and create an HPA to monitor CPU usage. Use kubectl comm
 Reasonable Limits: Set min and max replicas to avoid over- or under-provisioning. Performance Monitoring: Use tools like Prometheus and Grafana for data-driven scaling decisions. Combining HPA and VPA: Use both to optimize resource usage and the number of Pods. Testing in Staging: Ensure autoscaling configurations are validated in a non-production environment. Custom Metrics: Sometimes, custom metrics provide better scaling criteria than default CPU/memory metrics. Kubernetes autoscaling provides flexibility and efficiency in managing resources, ensuring that applications can handle variable traffic with minimal resource wastage.
 
 ## Link to Blogs:  
-https://medium.com/@i200862/gitops-the-future-of-kubernetes-and-cloud-native-deployments-32f741537bd5
-https://medium.com/@i200862/gitops-the-future-of-kubernetes-and-cloud-native-deployments-32f741537bd5
+             https://medium.com/@i200862/gitops-the-future-of-kubernetes-and-cloud-native-deployments-32f741537bd5
+             https://medium.com/@i200862/kubernetes-autoscaling-a-guide-to-efficient-resource-management-e4cd792cf937
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Hi 👋, I'm Ayesha Sajid
