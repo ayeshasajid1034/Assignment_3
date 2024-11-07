@@ -7,7 +7,6 @@ data:
   mongo-uri: bW9uZ29kYjovL21vbmdvLXNlcnZpY2U6MjcwMTc=
   NAME: YW1uYQ==
   PASSWORD: MTIzNDU2
-
 ---
 
 apiVersion: v1
