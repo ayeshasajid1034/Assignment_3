@@ -26,6 +26,9 @@ frontend: a simple frontend application which shows Doctors & Appointments in UI
 doctors: a backend app written in python, which shows list of doctors
 appointments: a backend app written in python, which shows list of appointments
 
+## Docker and Kubernetes Tooling Guide
+This project leverages Docker and Kubernetes to streamline deployment and ensure consistency across environments. Docker is used to containerize the application, encapsulating all dependencies and configurations, making it easy to deploy and run on any machine. A Dockerfile defines the environment setup, and Docker Compose allows multiple services—such as the app and database—to be managed locally in a unified manner. For production, Kubernetes is used to orchestrate these containers at scale. Kubernetes configuration files (.yaml) define the application deployment, replica scaling, and service exposure. Together, Docker and Kubernetes enable smooth development, scalable deployment, and efficient resource management, supporting modern DevOps workflows.
+
 
 
 
