@@ -1,9 +1,12 @@
-# Guide to Learning and Contribution to the DevOps Field
+# GitOps and Kubernetes Autoscaling
 
-DevOps is all about automating and streamlining software development and deployment processes. Over the course of this assignment, I’ve learned the importance of collaboration, automation, and infrastructure as code. Below are key contributions and practices that I’ve focused on:
+## GitOps: The Future of Kubernetes and Cloud-Native Deployments
+GitOps is a method that uses Git as the single source of truth for infrastructure and application code. It automates deployments and ensures consistent, auditable, and secure deployment practices.
 
-## Key Principles:
-- **Automation**: Automating CI/CD pipelines and deployments using tools like Jenkins, GitLab CI, and GitOps.
-- **Collaboration**: Working with cross-functional teams to ensure smooth software delivery.
-- **Monitoring and Logging**: Using tools like Prometheus, Grafana, and ELK stack to monitor and troubleshoot systems.
+## Kubernetes Autoscaling
+Kubernetes Autoscaling optimizes resource management by adjusting the number of Pods and nodes based on application demand. It helps improve performance and minimize costs.
 
+### Types of Autoscalers:
+- **Horizontal Pod Autoscaler** (HPA)
+- **Vertical Pod Autoscaler** (VPA)
+- **Cluster Autoscaler**
