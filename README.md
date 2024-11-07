@@ -3,9 +3,9 @@
 This repository contains the work completed for the DevOps Course 2024 assignment, which includes:
 
 - Guide to Learning and Contribution
-- A sample landing page with my CV.
 - View Blog Summaries
 - Sample repo from the internet and applying DevOps tooling.Pick and choose (your existing) knowledge and expand it to guide.
+- A sample landing page with my CV.
 
 ## Documentation:
 - [CV](https://ayeshasajid1034.github.io/DevOps_Assignment_3/)
@@ -13,7 +13,9 @@ This repository contains the work completed for the DevOps Course 2024 assignmen
 - [View Learning and Contribution](https://github.com/ayeshasajid1034/DevOps_Assignment_3/blob/main/Guide_to_Learning_and_Contribution.md)
 
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## DevOps Tooling
 
 ## Doctor Appointment System:
 
@@ -27,8 +29,26 @@ appointments: a backend app written in python, which shows list of appointments
 
 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Guide to Learning and Contribution:
+
+1. 🎓 Learning Plan
+A. Foundational Knowledge
+Programming Languages: Continue strengthening skills in Python and JavaScript. Focus on writing clean, efficient code and understanding data structures and algorithms.
+Operating Systems & Networking: Learn the fundamentals of Linux, shell scripting, and how networking works (e.g., DNS, HTTP, TCP/IP) as these are crucial in the DevOps world.
+Version Control Systems: Master Git and GitHub for efficient collaboration and version control..
+B. DevOps & Cloud Technologies
+Containers & Orchestration: Gain proficiency in Docker and Kubernetes. Understand how to build, manage, and deploy applications in a containerized environment.
+Cloud Platforms: Learn about AWS, Azure, or Google Cloud Platform. Start with services like EC2, S3, and Lambda, and understand concepts like cloud storage, networking, and load balancing.
+Infrastructure as Code (IaC): Study Terraform or AWS CloudFormation to automate infrastructure provisioning.
+Continuous Integration/Continuous Deployment (CI/CD): Set up a CI/CD pipeline using tools like Jenkins, GitHub Actions, or GitLab CI/CD.
+
+2. 🌐 Contribution Goals
+   Content Creation
+Write Blog Posts: Written blogs on medium related to Devops tools which helped me to explore and learn more.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Blog Summaries
 
 ## Blog 1 Summary:
@@ -57,25 +77,7 @@ Reasonable Limits: Set min and max replicas to avoid over- or under-provisioning
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Guide to Learning and Contribution:
 
-1. 🎓 Learning Plan
-A. Foundational Knowledge
-Programming Languages: Continue strengthening skills in Python and JavaScript. Focus on writing clean, efficient code and understanding data structures and algorithms.
-Operating Systems & Networking: Learn the fundamentals of Linux, shell scripting, and how networking works (e.g., DNS, HTTP, TCP/IP) as these are crucial in the DevOps world.
-Version Control Systems: Master Git and GitHub for efficient collaboration and version control..
-B. DevOps & Cloud Technologies
-Containers & Orchestration: Gain proficiency in Docker and Kubernetes. Understand how to build, manage, and deploy applications in a containerized environment.
-Cloud Platforms: Learn about AWS, Azure, or Google Cloud Platform. Start with services like EC2, S3, and Lambda, and understand concepts like cloud storage, networking, and load balancing.
-Infrastructure as Code (IaC): Study Terraform or AWS CloudFormation to automate infrastructure provisioning.
-Continuous Integration/Continuous Deployment (CI/CD): Set up a CI/CD pipeline using tools like Jenkins, GitHub Actions, or GitLab CI/CD.
-
-2. 🌐 Contribution Goals
-   Content Creation
-Write Blog Posts: Written blogs on medium related to Devops tools which helped me to explore and learn more.
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## CV
 
 # Hi 👋, I'm Ayesha Sajid
